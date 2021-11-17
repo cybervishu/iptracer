@@ -13,9 +13,9 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `apt install git -y`
 
-* `git clone https://github.com/rajkumardusad/IP-Tracer.git`
+* `git clone https://github.com/cybervishu/iptracer.git`
 
-* `cd IP-Tracer`
+* `cd iptracer`
 
 * `chmod +x install`
 
