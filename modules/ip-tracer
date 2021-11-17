@@ -1,6 +1,6 @@
 # Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
-# Date :- 10/10/2018
+# Author :- vishvam savaliya
+# Date :- 17/11/2021
 # Powered By :- Aex Software's
 if [ -d /data/data/com.termux/files/usr/share ];then
   cd /data/data/com.termux/files/usr/share/IP-Tracer
